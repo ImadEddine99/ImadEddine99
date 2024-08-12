@@ -50,7 +50,7 @@ figma,tailwind,r,nodejs,typescript,express,mongodb,nextjs,flask
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ImadEddine99/ImadEddine99/output/github-contribution-grid-snake.svg" />
+  <!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ImadEddine99/ImadEddine99/output/github-contribution-grid-snake.svg" />-->
   
   <br/><br/><br/>
 </div>
